@@ -1,5 +1,5 @@
 # TinDog-Site
-This is a responsive globe_with_meridiansweb landing page for Tindog app which is a dating app specifically created for dogs , Where u can download the app from the site , and see the feedbacks of so many happy users of the app or subscribe to one of our premium plans , Find the partner for your pet now dog !!!!!!!
+This is a responsive 🌐web landing page for Tindog app which is a dating app specifically created for dogs , Where u can download the app from the site , and see the feedbacks of so many happy users of the app or subscribe to one of our premium plans , Find the partner for your pet now 🐶 !!!!!!!
 # <a href="https://surya-bbas.github.io/TinDog-Site/"> Click To Viste Site </a>
 # Features of site📚:
 
